@@ -1,0 +1,2 @@
+UPDATE `cc_chore` SET `id`=[value-1],`tasktitle`=[value-2],`taskdescr`=[value-3],`pointvalue`=[value-4],`chorechild`=[value-5],`openassign`=[value-6] WHERE 1
+<a href="parentdashboard.php">Back To Dashboard</a>
